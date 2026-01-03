@@ -1,2 +1,2 @@
 # leet_code
-LeetCode Problem Exercise on in DSA &amp; Algorithm 
+LeetCode Problem Exercise in DSA &amp; Algorithm 
